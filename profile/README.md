@@ -54,7 +54,7 @@ Algunos ejemplos de lo que construimos:
 
 ¿Tienes preguntas sobre alguno de nuestros proyectos?
 
-📧 [it@mascaro.com](mailto:it@mascaro.com) · 🌐 [mascaro.com](https://www.mascaro.com) · 📍 Ferreries, Menorca
+📧 [soporte@mascaro.com](mailto:soporte@mascaro.com) · 🌐 [mascaro.com](https://www.mascaro.com) · 📍 Ferreries, Menorca
 
 ---
 
