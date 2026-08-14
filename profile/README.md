@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner principal -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=160&section=header&text=IT%20Mascaró&fontSize=52&fontColor=d4af37&animation=fadeIn&fontAlignY=38&desc=Departamento%20de%20Tecnología%20·%20Jaime%20Mascaró%20S.A.&descAlignY=58&descColor=a89060" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Mascaró&fontAlign=51&animation=fadeIn&descAlign=29&textBg=false&reversal=true&descAlignY=50&fontAlignY=55" />
 
 </div>
 
